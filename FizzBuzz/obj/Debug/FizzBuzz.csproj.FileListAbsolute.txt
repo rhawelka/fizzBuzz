@@ -1,0 +1,6 @@
+C:\Users\Rafał\Downloads\GLrepo-20190905T182637Z-001\GLrepo\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.dll
+C:\Users\Rafał\Downloads\GLrepo-20190905T182637Z-001\GLrepo\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\Rafał\Downloads\GLrepo-20190905T182637Z-001\GLrepo\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\Rafał\Downloads\GLrepo-20190905T182637Z-001\GLrepo\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Rafał\Downloads\GLrepo-20190905T182637Z-001\GLrepo\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.dll
+C:\Users\Rafał\Downloads\GLrepo-20190905T182637Z-001\GLrepo\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb

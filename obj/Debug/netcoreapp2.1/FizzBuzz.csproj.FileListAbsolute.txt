@@ -1,0 +1,4 @@
+C:\Users\Rafał\Downloads\GLrepo-20190905T182637Z-001\GLrepo\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\Rafał\Downloads\GLrepo-20190905T182637Z-001\GLrepo\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Rafał\Downloads\GLrepo-20190905T182637Z-001\GLrepo\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Rafał\Downloads\GLrepo-20190905T182637Z-001\GLrepo\FizzBuzz\obj\Debug\netcoreapp2.1\FizzBuzz.AssemblyInfo.cs
